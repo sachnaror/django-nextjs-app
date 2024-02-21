@@ -1,5 +1,5 @@
 
-# Django-Next.js-Boilerplate
+# Django-Next.js-app
 
 A fullstack web project with Django as the server, PostgreSQL as the database and Next.js as the frontend.
 
@@ -27,8 +27,8 @@ To get a local copy of this template up and running on your machine, follow thes
 
 ### Installation
 
-- Clone the repo `git clone`
-- Change the current directory to the template `cd django-nextjs-boilerplate`
+- Clone the repo `git clone https://github.com/sachnaror/django-nextjs-app`
+- Change the current directory to the template `cd django-nextjs-app`
 - Build the docker containers`docker-compose -f docker-compose.dev.yml build` for the dev containers and `docker-compose -f docker-compose.prod.yml build` for the prod containers
 - Run the docker containers`docker-compose -f docker-compose.dev.yml up` for the dev containers and `docker-compose -f docker-compose.prod.yml up` for the prod containers
 
