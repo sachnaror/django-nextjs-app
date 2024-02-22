@@ -34,7 +34,7 @@ To get a local copy of this template up and running on your machine, follow thes
 
 ## API Documentation
 
-API documentation is done using swagger. Visit `/swagger` for API documentation.
+API documentation will be in swagger. You can view it in `/swagger` for API documentation soon once we start on APIs.
 
 ## Technologies used
 
